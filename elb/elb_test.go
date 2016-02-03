@@ -1,9 +1,9 @@
 package elb_test
 
 import (
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/elb"
-	"github.com/mitchellh/goamz/testutil"
+	"github.com/bukalapak/goamz/aws"
+	"github.com/bukalapak/goamz/elb"
+	"github.com/bukalapak/goamz/testutil"
 	. "github.com/motain/gocheck"
 	"testing"
 )

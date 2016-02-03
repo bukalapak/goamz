@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mitchellh/goamz/aws"
+	"github.com/bukalapak/goamz/aws"
 )
 
 var b64 = base64.StdEncoding
